@@ -1,1 +1,2 @@
-A place for hardware programming examples!
+# Hardware examples!
+A place to learn!
